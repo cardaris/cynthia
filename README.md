@@ -4,6 +4,8 @@ Customer-feedback SaaS for small software teams — a hosted feedback board,
 public changelog, and light analytics. Teams collect feature requests, let users
 vote, and close the loop with a changelog.
 
+**Live:** https://cardaris.github.io/cynthia/
+
 ## Stack
 
 - **Next.js 16** (App Router) + **React 19** + **TypeScript**
